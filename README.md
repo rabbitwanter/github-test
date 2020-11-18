@@ -3,7 +3,7 @@
 This is a test project for github :D
 
 1. sloth
-2. purple
+## 2. woah
 3. shmurb
 
 - memes
@@ -18,5 +18,3 @@ This is a test project for github :D
 *italics*
 **bold**
 _idk_
-
-hello world
